@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    android:background="@mipmap/wallpaper1"
+    android:background="@mipmap/p"
     android:layout_gravity="center"
     tools:context="tutorial.cs5551.com.translateapp.Topics">
 
